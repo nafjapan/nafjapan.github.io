@@ -1,19 +1,19 @@
 # Site Settings
-title: Jekflix | A theme for Jekyll
-email: youremail@xyz.com
-description: Some text about your blog.
+title: 纳福素材
+email: nafjapan@yahoo.co.jp
+description: 一站式素材.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jekflix.rossener.com" # the base hostname & protocol for your site
+url: "https://nafjapan.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
-username: Jekflix
-user_description: Some text about you.
+username: 纳福素材
+user_description: 素材太多了啊.
 disqus_username: disqus_username
 
 # Social Media
 # Remove the item if you don't need it
-github_username: github_username
+github_username: nafjapan
 facebook_username: facebook_username
 twitter_username: twitter_username
 instagram_username: instagram_username
