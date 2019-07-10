@@ -14,11 +14,11 @@ disqus_username: disqus_username
 # Social Media
 # Remove the item if you don't need it
 github_username: nafjapan
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+facebook_username: nafjapan
+twitter_username: nafjapan
+instagram_username: nafjapan
+linkedin_username: nafjapan
+medium_username: nafjapan
 
 # Build settings
 markdown: kramdown
