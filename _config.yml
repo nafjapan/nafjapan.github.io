@@ -24,7 +24,7 @@ medium_username: nafjapan
 markdown: kramdown
 highlighter: rouge
 permalink: /:title/
-paginate: 12
+paginate: 24
 paginate_path: "/page/:num/"
 svg_color: "#ff0a16"
 

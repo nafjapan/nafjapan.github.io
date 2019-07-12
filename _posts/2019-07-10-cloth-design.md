@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "折纸书籍"
+title: "折纸书籍 西川诚司 作品集"
 date: 2019-07-10 01:23:21
 image: '../assets/img/pic/nishikawa.jpg'
 description:

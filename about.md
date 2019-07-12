@@ -5,13 +5,17 @@ description: Some description.
 permalink: /about/
 ---
 
-<img itemprop="image" class="img-rounded" src="http://res.cloudinary.com/dm7h7e8xj/image/upload/c_fill,h_200,w_200/v1504971955/neo_ruqszk.jpg" alt="Your Name">
+<img itemprop="image" class="img-rounded" src="../img/mario03.png" width="500" height="650" alt="Your Name">
 
-## About
+## 关于纳福素材的福利站
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+这是一个纳福素材站的福利站
+站里的资源都是淘宝不让上货的,亲可以自由选购,一部五元,微信支付.
+微信号 nafjapan
+加百度网盘后,店主会把对应的资源发给亲
+
+加入店铺会员108元/年,精彩福利乐享一年,淘宝店铺所有资源免费(每日限10单)
+
+提供友情找资源服务,提供封面或者书名给店主就可以,每部五元
+
+
